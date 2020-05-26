@@ -1,0 +1,45 @@
+.navbar{
+          background-color: #696969;
+          
+        }
+.form-group{
+	color:white;
+}
+.space{
+	margin-left: 5px;
+}
+.space1{
+	margin-top: 5px;
+	
+}
+.space2{
+	margin-top:1px;
+}
+#content{
+	
+	padding-top: 25%;
+}
+.white{
+	color:white;
+}
+.black{
+	color:black;
+}
+
+body{
+     	/*background:url(https://www.swissinstitute.net/wp-content/uploads/2016/02/FADE_IN_29.jpg);*/
+     	/*background: url(IMG16.jpg);*/
+     	/*background: url(https://www.swissinstitute.net/wp-content/uploads/2016/02/FADE_IN_16.jpg);*/
+     	background: url(Foodimg.jpg);
+
+     	background-size: cover;
+     	background-position: center;
+     	height: calc(100vh);
+       min-height: 700px;
+       position:relative;
+       padding-top:3rem;
+       
+     	background-repeat: no-repeat;
+     	
+     }
+
